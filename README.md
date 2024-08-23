@@ -12,3 +12,5 @@ The user can play this game again (by clicking on 'Again!' button). If the user 
 If the user can't guess the right number in 20 attempts, then he will lose and the window will turn red.
 
 This project is hosted live on netlify with a custom domain name, which you can checkout and play this game by following link:
+
+https://pratikchandorkar.github.io/GuessMyNumber/
